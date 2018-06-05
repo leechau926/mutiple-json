@@ -1,0 +1,15 @@
+{
+    "server":"0.0.0.0",
+    "local_address":"127.0.0.1",
+    "local_port":1080,
+    "port_password":{
+         "10086":"LeeChau+1s",
+         "10087":"LeeChau+1s",
+         "10088":"LeeChau+1s",
+         "10089":"LeeChau+1s",
+         "10090":"LeeChau+1s"
+    },
+    "timeout":300,
+    "method":"aes-256-cfb",
+    "fast_open": true
+}

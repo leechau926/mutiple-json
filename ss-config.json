@@ -7,7 +7,13 @@
          "10087":"LeeChau+1s",
          "10088":"LeeChau+1s",
          "10089":"LeeChau+1s",
-         "10090":"LeeChau+1s"
+         "10090":"LeeChau+1s",
+         "10091":"LeeChau+1s",
+         "10092":"LeeChau+1s",
+         "10093":"LeeChau+1s",
+         "10094":"LeeChau+1s",
+         "10095":"LeeChau+1s",
+         "10096":"LeeChau+1s"
     },
     "timeout":300,
     "method":"aes-256-cfb",

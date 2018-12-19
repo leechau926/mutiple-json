@@ -11,7 +11,9 @@
     "18004":"LeeChau+1s",
     "18005":"LeeChau+1s",
     "19000":"LeeChau+1s",
-    "19001":"LeeChau+1s"
+    "19001":"LeeChau+1s",
+    "19002":"LeeChau+1s",
+    "19003":"LeeChau+1s"
 },
 "timeout":300,
 "method":"aes-256-cfb",
